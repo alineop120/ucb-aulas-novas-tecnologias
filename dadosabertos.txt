@@ -1,0 +1,1 @@
+Olá, isto é o conteúdo de um arquivo para dsciplina de python aplicado a ciência de dados
