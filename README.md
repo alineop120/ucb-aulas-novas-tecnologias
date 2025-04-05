@@ -4,7 +4,7 @@ Bem-vindo ao repositório do curso **Novas Tecnologias** da **UCB**! Aqui você 
 
 ## Estrutura do Repositório
 
-A pasta **conteudo-aulas** contém os tópicos que foram abordados nas aulas. Os arquivos estão organizados de forma a facilitar o seu aprendizado e acompanhamento.
+A pasta **[conteudo-aulas](https://github.com/alineop120/ucb-aulas-novas-tecnologias/tree/main/conteudo-aulas)** contém os tópicos que foram abordados nas aulas. Os arquivos estão organizados de forma a facilitar o seu aprendizado e acompanhamento.
 
 ## Ambiente de Desenvolvimento
 
